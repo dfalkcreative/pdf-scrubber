@@ -18,4 +18,4 @@ python3 redact.py < input.pdf > output.pdf -o "example 1 | example 2 | example 3
 
 ### Credits
 
-[PDF Redactor](https://github.com/JoshData/pdf-redactor)
+💡 [PDF Redactor](https://github.com/JoshData/pdf-redactor)
